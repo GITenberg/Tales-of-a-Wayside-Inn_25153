@@ -1,0 +1,28 @@
+_repo: Tales-of-a-Wayside-Inn_25153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    alias: Longfellow, Henry W.
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+description: ''
+gutenberg_issued: '2008-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: Tales of a Wayside Inn
+url: http://www.gutenberg.org/ebooks/25153
